@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KubelP
-- 👀 I’m interested in fireamrs, market nad astronomy
+- 👀 I’m interested in firearms, market nad astronomy
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: on LinkedIn by linkedin.com/in/jakub-piergies-607193101
 
